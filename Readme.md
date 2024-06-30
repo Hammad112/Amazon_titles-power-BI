@@ -7,6 +7,9 @@ Welcome to the Power BI Visualization, exclusively on Amazon Prime Titles! Prepa
 ## Why Power BI?
 Power BI isn't just a tool—it's a game-changer. With its intuitive interface, robust features, and seamless integration capabilities, Power BI empowers you to explore data in ways you never thought possible. Whether you're a beginner or a seasoned pro, this assignment will equip you with the skills and confidence to unleash your creativity and make data come to life.
 
+## Dashboard
+![paas](https://github.com/Hammad112/Amazon_titles-power-BI/assets/95902997/5b55b3d8-6211-4003-85e8-3f625c8f279b)
+
 
 ## About Dataset
 The Streaming Program Dataset features a wide range of data points for each program, including:
